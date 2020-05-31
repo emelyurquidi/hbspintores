@@ -1,0 +1,30 @@
+body{
+    background-image: url(http://www.hdfondos.eu/pictures/2013/0219/1/orig_404307.jpg);
+}
+
+table{
+    width: 100%;
+    font-size: 100%;
+    text-align: center;
+}
+
+h1 {
+    background: linear-gradient(white,yellow);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+  }
+
+a, h2{
+    color: white;
+    font-size: 100%;
+}
+
+h3{
+    font-size: 200%;
+}
+
+.indice{
+    color: white;
+    font-size: 100%;
+}
